@@ -8,6 +8,8 @@ require 'values.rb'
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
+def test 
+end
 
 def get_the_min(groceries)
   #code your solution here!
